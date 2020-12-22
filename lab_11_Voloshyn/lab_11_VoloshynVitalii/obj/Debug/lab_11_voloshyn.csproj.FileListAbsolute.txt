@@ -1,0 +1,2 @@
+C:\Users\volos\Desktop\lab_11_Voloshyn\lab_11_studentBohdan\obj\Debug\lab_11_voloshyn.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\lab_11_Voloshyn\lab_11_studentBohdan\obj\Debug\lab_11_voloshyn.csproj.CoreCompileInputs.cache

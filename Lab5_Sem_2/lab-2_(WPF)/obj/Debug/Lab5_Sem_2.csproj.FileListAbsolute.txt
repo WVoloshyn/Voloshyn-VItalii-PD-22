@@ -1,0 +1,14 @@
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\bin\Debug\lab-2_(WPF).exe.config
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\bin\Debug\lab-2_(WPF).exe
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\bin\Debug\lab-2_(WPF).pdb
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\App.g.cs
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\lab-2_(WPF)_MarkupCompile.cache
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\lab-2_(WPF)_MarkupCompile.lref
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\MainWindow.baml
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\lab-2_(WPF).g.resources
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\lab_2__WPF_.Properties.Resources.resources
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\Lab5_Sem_2.csproj.GenerateResource.cache
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\Lab5_Sem_2.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\lab-2_(WPF).exe
+C:\Users\volos\Desktop\lab-2(WPF)\lab-2_(WPF)\obj\Debug\lab-2_(WPF).pdb
